@@ -12,5 +12,4 @@ I'm an undergraduate BMus student majoring in music education with a minor in ps
 - 🍎  I'm in the third year of my undergrad
 - 🎶  I'm an oboist
 - 🔨  I’m currently working on the [Music Discoveries site](https://github.com/musicdiscoveries/website)
-- 📫  Reach me at [@mirrorblue](https://www.instagram.com/mirror.blue/)
 - ✨  See my work [here](https://kiaralee.github.io/)
