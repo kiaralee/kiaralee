@@ -8,7 +8,7 @@ I'm an undergraduate BMus student majoring in music education with a minor in ps
 
 ---
 
-- 😄  My pronouns are *she / her / hers*
+- 😊  My pronouns are *she / her / hers*
 - 🍎  I'm in the third year of my undergrad
 - 🎶  I'm an oboist
 - 🔨  I’m currently working on the [Music Discoveries site](https://github.com/musicdiscoveries/website)
