@@ -12,4 +12,4 @@ I'm an undergraduate BMus student majoring in music education with a minor in ps
 - 🍎  I'm in the third year of my undergrad
 - 🎶  I'm an oboist
 - 🔨  I’m currently working on the [Music Discoveries site](http://musicdiscoveries.ca/)
-- ✨  See my work [here](https://kiaralee.github.io/)
+- ✨  See my work [here](http://kiara.codes/)
