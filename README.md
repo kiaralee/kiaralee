@@ -2,16 +2,15 @@
 
 ---
 
-Hi, I'm Kiara. I'm a classical musician, educator, and web developer based in Canada.
+Hi, I'm Kiara. I'm a classical musician, educator, and web developer based in Vancouver, BC.
 
-I'm an undergraduate BMus student majoring in musicology and sound studies with a minor in psychology, focusing on mental health and well-being. I'm interested in using technology to help make music performance and recording spaces more accessible for neurodivergent artists.
+I have an undergraduate degree in musicology & sound studies and am currently a graduate student in music performance. I'm interested in using technology to help make music performance and recording spaces more accessible for neurodivergent artists.
 
 ---
 
 - 😊  My pronouns are *she / her / hers*
-- 🍎  I'm in the fourth year of my undergrad
+- 🍎  I'm in the first year of my Master's program
 - 🎶  I'm an oboe and English horn player
 - 💜  I'm passionate about accessibility and diversity in technology, the arts, and education
-- 📝  My current research compares and contrasts healing music from Greek Antiquity with modern music therapy
-- 🔨  I’m currently working as the program coordinator for [HighTechU](https://hightechu.ca/)
+- 📝  My research interests are in music and myth, and music's role in identity creation
 - ✨  See my work [here](https://kiaralee.github.io/)
